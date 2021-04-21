@@ -2,7 +2,7 @@
   "name": "mylib",
   "version": "1.0.0",
   "description": "",
-  "main": "./build/index.js",
+  "main": "build/index.js",
   "files": [
     "build"
   ],
