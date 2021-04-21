@@ -7,7 +7,7 @@
     "build"
   ],
   "bin": {
-    "sum": "build/index.js"
+    "mylib": "build/index.js"
   },
   "scripts": {
     "build": "tsc",
