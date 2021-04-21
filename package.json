@@ -11,6 +11,8 @@
   },
   "scripts": {
     "build": "tsc",
+    "prepublishOnly": "npm run build",
+    "prepare": "npm run build",
     "test": "ts-mocha tests/**/*.test.ts",
     "serve": "npm run build && node build/index.js"
   },
