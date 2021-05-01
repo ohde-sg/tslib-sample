@@ -4,7 +4,7 @@
   "description": "",
   "main": "build/index.js",
   "files": [
-    "build"
+    "/build"
   ],
   "bin": {
     "mylib": "build/index.js"
